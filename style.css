@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.image-container {
+    max-width: 100px;
+    margin: 20px auto;
+}
+
+#uploaded-image {
+    max-width: 100%;
+    width: 10px;
+    height:20px;
+   
+}
+
+.image-list {
+    margin-top: 30px;
+    width: 50px;
+    display: flex;
+ 
+}
+
+.image-list img {
+    max-width: 150px;
+   
+}
+/* id is #, class is ., body,head,... just body{} */
